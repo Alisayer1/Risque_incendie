@@ -1,5 +1,5 @@
 ws="/content/contenu/" #repete dans prepareDonneesLineaires
-chemTables="B:/Perso/Etudes/MEDSTAR-INTERMED/ModeleRisque/TablesScenarStd/"
+chemTables="/content/tablesscenarstd/"
 scenario="scenarstd"
 
 resol=10
