@@ -1,4 +1,4 @@
-ws="B:/Perso/Etudes/MEDSTAR-INTERMED/ModeleRisque/WS/" #repete dans prepareDonneesLineaires
+ws="/content/contenu/" #repete dans prepareDonneesLineaires
 chemTables="B:/Perso/Etudes/MEDSTAR-INTERMED/ModeleRisque/TablesScenarStd/"
 scenario="scenarstd"
 
